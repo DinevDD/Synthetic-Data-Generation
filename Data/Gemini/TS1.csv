@@ -1,0 +1,101 @@
+Case ID,Activity,Timestamp,Group,Lifecycle
+1,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release E,2026-05-16 19:51:08,Group_A,complete
+2,ER Registration/ER Triage/ER Sepsis Triage/Leucocytes/CRP/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-16 20:14:08,Group_B,complete
+3,ER Registration/ER Triage/ER Sepsis Triage/IV Liquid/Leucocytes/CRP/LacticAcid/IV Antibiotics/Admission NC/Return ER/Release C/Return ER/Release E,2026-05-16 20:41:08,Group_C,complete
+4,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Return ER/Release D/Return ER/Release A,2026-05-16 21:05:08,Group_D,complete
+5,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/CRP/Leucocytes/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-16 21:33:08,Group_A,complete
+6,ER Registration/ER Triage/ER Sepsis Triage/CRP/LacticAcid/Leucocytes/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-16 22:12:08,Group_B,complete
+7,ER Registration/ER Sepsis Triage/ER Triage/Leucocytes/LacticAcid/CRP/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-16 22:45:08,Group_C,complete
+8,ER Registration/ER Triage/ER Sepsis Triage/IV Antibiotics/IV Liquid/CRP/Leucocytes/LacticAcid/Admission IC/Return ER/Release C/Return ER/Release E,2026-05-16 23:18:08,Group_D,complete
+9,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/Leucocytes/CRP/IV Liquid/IV Antibiotics/Admission NC/Admission IC/Return ER/Release A/Release D,2026-05-16 23:54:08,Group_A,complete
+10,ER Registration/ER Sepsis Triage/ER Triage/CRP/Leucocytes/LacticAcid/IV Antibiotics/IV Liquid/Admission NC/Return ER/Release B/Return ER/Release E,2026-05-17 00:21:08,Group_B,complete
+11,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release E,2026-05-17 00:44:08,Group_C,complete
+12,ER Registration/ER Triage/ER Sepsis Triage/Leucocytes/CRP/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-17 01:10:08,Group_D,complete
+13,ER Registration/ER Triage/ER Sepsis Triage/IV Liquid/Leucocytes/CRP/LacticAcid/IV Antibiotics/Admission NC/Return ER/Release C/Return ER/Release E,2026-05-17 01:35:08,Group_A,complete
+14,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Return ER/Release D/Return ER/Release A,2026-05-17 02:02:08,Group_B,complete
+15,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/CRP/Leucocytes/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-17 02:29:08,Group_C,complete
+16,ER Registration/ER Triage/ER Sepsis Triage/CRP/LacticAcid/Leucocytes/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-17 02:51:08,Group_D,complete
+17,ER Registration/ER Sepsis Triage/ER Triage/Leucocytes/LacticAcid/CRP/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-17 03:15:08,Group_A,complete
+18,ER Registration/ER Triage/ER Sepsis Triage/IV Antibiotics/IV Liquid/CRP/Leucocytes/LacticAcid/Admission IC/Return ER/Release C/Return ER/Release E,2026-05-17 03:42:08,Group_B,complete
+19,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/Leucocytes/CRP/IV Liquid/IV Antibiotics/Admission NC/Admission IC/Return ER/Release A/Release D,2026-05-17 04:09:08,Group_C,complete
+20,ER Registration/ER Sepsis Triage/ER Triage/CRP/Leucocytes/LacticAcid/IV Antibiotics/IV Liquid/Admission NC/Return ER/Release B/Return ER/Release E,2026-05-17 04:31:08,Group_D,complete
+21,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release E,2026-05-17 05:04:08,Group_A,complete
+22,ER Registration/ER Triage/ER Sepsis Triage/Leucocytes/CRP/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-17 05:27:08,Group_B,complete
+23,ER Registration/ER Triage/ER Sepsis Triage/IV Liquid/Leucocytes/CRP/LacticAcid/IV Antibiotics/Admission NC/Return ER/Release C/Return ER/Release E,2026-05-17 05:55:08,Group_C,complete
+24,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Return ER/Release D/Return ER/Release A,2026-05-17 06:18:08,Group_D,complete
+25,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/CRP/Leucocytes/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-17 06:40:08,Group_A,complete
+26,ER Registration/ER Triage/ER Sepsis Triage/CRP/LacticAcid/Leucocytes/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-17 07:12:08,Group_B,complete
+27,ER Registration/ER Sepsis Triage/ER Triage/Leucocytes/LacticAcid/CRP/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-17 07:35:08,Group_C,complete
+28,ER Registration/ER Triage/ER Sepsis Triage/IV Antibiotics/IV Liquid/CRP/Leucocytes/LacticAcid/Admission IC/Return ER/Release C/Return ER/Release E,2026-05-17 08:01:08,Group_D,complete
+29,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/Leucocytes/CRP/IV Liquid/IV Antibiotics/Admission NC/Admission IC/Return ER/Release A/Release D,2026-05-17 08:29:08,Group_A,complete
+30,ER Registration/ER Sepsis Triage/ER Triage/CRP/Leucocytes/LacticAcid/IV Antibiotics/IV Liquid/Admission NC/Return ER/Release B/Return ER/Release E,2026-05-17 08:52:08,Group_B,complete
+31,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release E,2026-05-17 09:14:08,Group_C,complete
+32,ER Registration/ER Triage/ER Sepsis Triage/Leucocytes/CRP/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-17 09:41:08,Group_D,complete
+33,ER Registration/ER Triage/ER Sepsis Triage/IV Liquid/Leucocytes/CRP/LacticAcid/IV Antibiotics/Admission NC/Return ER/Release C/Return ER/Release E,2026-05-17 10:05:08,Group_A,complete
+34,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Return ER/Release D/Return ER/Release A,2026-05-17 10:33:08,Group_B,complete
+35,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/CRP/Leucocytes/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-17 10:58:08,Group_C,complete
+36,ER Registration/ER Triage/ER Sepsis Triage/CRP/LacticAcid/Leucocytes/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-17 11:22:08,Group_D,complete
+37,ER Registration/ER Sepsis Triage/ER Triage/Leucocytes/LacticAcid/CRP/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-17 11:47:08,Group_A,complete
+38,ER Registration/ER Triage/ER Sepsis Triage/IV Antibiotics/IV Liquid/CRP/Leucocytes/LacticAcid/Admission IC/Return ER/Release C/Return ER/Release E,2026-05-17 12:15:08,Group_B,complete
+39,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/Leucocytes/CRP/IV Liquid/IV Antibiotics/Admission NC/Admission IC/Return ER/Release A/Release D,2026-05-17 12:39:08,Group_C,complete
+40,ER Registration/ER Sepsis Triage/ER Triage/CRP/Leucocytes/LacticAcid/IV Antibiotics/IV Liquid/Admission NC/Return ER/Release B/Return ER/Release E,2026-05-17 13:02:08,Group_D,complete
+41,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release E,2026-05-17 13:28:08,Group_A,complete
+42,ER Registration/ER Triage/ER Sepsis Triage/Leucocytes/CRP/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-17 13:51:08,Group_B,complete
+43,ER Registration/ER Triage/ER Sepsis Triage/IV Liquid/Leucocytes/CRP/LacticAcid/IV Antibiotics/Admission NC/Return ER/Release C/Return ER/Release E,2026-05-17 14:17:08,Group_C,complete
+44,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Return ER/Release D/Return ER/Release A,2026-05-17 14:44:08,Group_D,complete
+45,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/CRP/Leucocytes/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-17 15:09:08,Group_A,complete
+46,ER Registration/ER Triage/ER Sepsis Triage/CRP/LacticAcid/Leucocytes/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-17 15:35:08,Group_B,complete
+47,ER Registration/ER Sepsis Triage/ER Triage/Leucocytes/LacticAcid/CRP/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-17 16:01:08,Group_C,complete
+48,ER Registration/ER Triage/ER Sepsis Triage/IV Antibiotics/IV Liquid/CRP/Leucocytes/LacticAcid/Admission IC/Return ER/Release C/Return ER/Release E,2026-05-17 16:28:08,Group_D,complete
+49,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/Leucocytes/CRP/IV Liquid/IV Antibiotics/Admission NC/Admission IC/Return ER/Release A/Release D,2026-05-17 16:53:08,Group_A,complete
+50,ER Registration/ER Sepsis Triage/ER Triage/CRP/Leucocytes/LacticAcid/IV Antibiotics/IV Liquid/Admission NC/Return ER/Release B/Return ER/Release E,2026-05-17 17:15:08,Group_B,complete
+51,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release E,2026-05-17 17:41:08,Group_C,complete
+52,ER Registration/ER Triage/ER Sepsis Triage/Leucocytes/CRP/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-17 18:07:08,Group_D,complete
+53,ER Registration/ER Triage/ER Sepsis Triage/IV Liquid/Leucocytes/CRP/LacticAcid/IV Antibiotics/Admission NC/Return ER/Release C/Return ER/Release E,2026-05-17 18:32:08,Group_A,complete
+54,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Return ER/Release D/Return ER/Release A,2026-05-17 18:59:08,Group_B,complete
+55,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/CRP/Leucocytes/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-17 19:24:08,Group_C,complete
+56,ER Registration/ER Triage/ER Sepsis Triage/CRP/LacticAcid/Leucocytes/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-17 19:51:08,Group_D,complete
+57,ER Registration/ER Sepsis Triage/ER Triage/Leucocytes/LacticAcid/CRP/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-17 20:17:08,Group_A,complete
+58,ER Registration/ER Triage/ER Sepsis Triage/IV Antibiotics/IV Liquid/CRP/Leucocytes/LacticAcid/Admission IC/Return ER/Release C/Return ER/Release E,2026-05-17 20:42:08,Group_B,complete
+59,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/Leucocytes/CRP/IV Liquid/IV Antibiotics/Admission NC/Admission IC/Return ER/Release A/Release D,2026-05-17 21:05:08,Group_C,complete
+60,ER Registration/ER Sepsis Triage/ER Triage/CRP/Leucocytes/LacticAcid/IV Antibiotics/IV Liquid/Admission NC/Return ER/Release B/Return ER/Release E,2026-05-17 21:31:08,Group_D,complete
+61,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release E,2026-05-17 21:55:08,Group_A,complete
+62,ER Registration/ER Triage/ER Sepsis Triage/Leucocytes/CRP/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-17 22:20:08,Group_B,complete
+63,ER Registration/ER Triage/ER Sepsis Triage/IV Liquid/Leucocytes/CRP/LacticAcid/IV Antibiotics/Admission NC/Return ER/Release C/Return ER/Release E,2026-05-17 22:46:08,Group_C,complete
+64,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Return ER/Release D/Return ER/Release A,2026-05-17 23:12:08,Group_D,complete
+65,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/CRP/Leucocytes/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-17 23:37:08,Group_A,complete
+66,ER Registration/ER Triage/ER Sepsis Triage/CRP/LacticAcid/Leucocytes/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-18 00:01:08,Group_B,complete
+67,ER Registration/ER Sepsis Triage/ER Triage/Leucocytes/LacticAcid/CRP/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-18 00:26:08,Group_C,complete
+68,ER Registration/ER Triage/ER Sepsis Triage/IV Antibiotics/IV Liquid/CRP/Leucocytes/LacticAcid/Admission IC/Return ER/Release C/Return ER/Release E,2026-05-18 00:54:08,Group_D,complete
+69,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/Leucocytes/CRP/IV Liquid/IV Antibiotics/Admission NC/Admission IC/Return ER/Release A/Release D,2026-05-18 01:21:08,Group_A,complete
+70,ER Registration/ER Sepsis Triage/ER Triage/CRP/Leucocytes/LacticAcid/IV Antibiotics/IV Liquid/Admission NC/Return ER/Release B/Return ER/Release E,2026-05-18 01:48:08,Group_B,complete
+71,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release E,2026-05-18 02:11:08,Group_C,complete
+72,ER Registration/ER Triage/ER Sepsis Triage/Leucocytes/CRP/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-18 02:35:08,Group_D,complete
+73,ER Registration/ER Triage/ER Sepsis Triage/IV Liquid/Leucocytes/CRP/LacticAcid/IV Antibiotics/Admission NC/Return ER/Release C/Return ER/Release E,2026-05-18 03:02:08,Group_A,complete
+74,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Return ER/Release D/Return ER/Release A,2026-05-18 03:25:08,Group_B,complete
+75,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/CRP/Leucocytes/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-18 03:51:08,Group_C,complete
+76,ER Registration/ER Triage/ER Sepsis Triage/CRP/LacticAcid/Leucocytes/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-18 04:18:08,Group_D,complete
+77,ER Registration/ER Sepsis Triage/ER Triage/Leucocytes/LacticAcid/CRP/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-18 04:45:08,Group_A,complete
+78,ER Registration/ER Triage/ER Sepsis Triage/IV Antibiotics/IV Liquid/CRP/Leucocytes/LacticAcid/Admission IC/Return ER/Release C/Return ER/Release E,2026-05-18 05:09:08,Group_B,complete
+79,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/Leucocytes/CRP/IV Liquid/IV Antibiotics/Admission NC/Admission IC/Return ER/Release A/Release D,2026-05-18 05:36:08,Group_C,complete
+80,ER Registration/ER Sepsis Triage/ER Triage/CRP/Leucocytes/LacticAcid/IV Antibiotics/IV Liquid/Admission NC/Return ER/Release B/Return ER/Release E,2026-05-18 06:01:08,Group_D,complete
+81,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release E,2026-05-18 06:27:08,Group_A,complete
+82,ER Registration/ER Triage/ER Sepsis Triage/Leucocytes/CRP/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-18 06:55:08,Group_B,complete
+83,ER Registration/ER Triage/ER Sepsis Triage/IV Liquid/Leucocytes/CRP/LacticAcid/IV Antibiotics/Admission NC/Return ER/Release C/Return ER/Release E,2026-05-18 07:18:08,Group_C,complete
+84,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Return ER/Release D/Return ER/Release A,2026-05-18 07:44:08,Group_D,complete
+85,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/CRP/Leucocytes/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-18 08:10:08,Group_A,complete
+86,ER Registration/ER Triage/ER Sepsis Triage/CRP/LacticAcid/Leucocytes/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-18 08:35:08,Group_B,complete
+87,ER Registration/ER Sepsis Triage/ER Triage/Leucocytes/LacticAcid/CRP/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-18 08:58:08,Group_C,complete
+88,ER Registration/ER Triage/ER Sepsis Triage/IV Antibiotics/IV Liquid/CRP/Leucocytes/LacticAcid/Admission IC/Return ER/Release C/Return ER/Release E,2026-05-18 09:24:08,Group_D,complete
+89,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/Leucocytes/CRP/IV Liquid/IV Antibiotics/Admission NC/Admission IC/Return ER/Release A/Release D,2026-05-18 09:49:08,Group_A,complete
+90,ER Registration/ER Sepsis Triage/ER Triage/CRP/Leucocytes/LacticAcid/IV Antibiotics/IV Liquid/Admission NC/Return ER/Release B/Return ER/Release E,2026-05-18 10:15:08,Group_B,complete
+91,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release E,2026-05-18 10:38:08,Group_C,complete
+92,ER Registration/ER Triage/ER Sepsis Triage/Leucocytes/CRP/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-18 11:05:08,Group_D,complete
+93,ER Registration/ER Triage/ER Sepsis Triage/IV Liquid/Leucocytes/CRP/LacticAcid/IV Antibiotics/Admission NC/Return ER/Release C/Return ER/Release E,2026-05-18 11:32:08,Group_A,complete
+94,ER Registration/ER Triage/ER Sepsis Triage/CRP/Leucocytes/LacticAcid/IV Liquid/IV Antibiotics/Admission IC/Return ER/Release D/Return ER/Release A,2026-05-18 11:59:08,Group_B,complete
+95,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/CRP/Leucocytes/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-18 12:21:08,Group_C,complete
+96,ER Registration/ER Triage/ER Sepsis Triage/CRP/LacticAcid/Leucocytes/IV Liquid/IV Antibiotics/Admission IC/Admission NC/Return ER/Release B/Return ER/Release A,2026-05-18 12:44:08,Group_D,complete
+97,ER Registration/ER Sepsis Triage/ER Triage/Leucocytes/LacticAcid/CRP/IV Liquid/IV Antibiotics/Admission NC/Return ER/Release A/Return ER/Release B,2026-05-18 13:10:08,Group_A,complete
+98,ER Registration/ER Triage/ER Sepsis Triage/IV Antibiotics/IV Liquid/CRP/Leucocytes/LacticAcid/Admission IC/Return ER/Release C/Return ER/Release E,2026-05-18 13:36:08,Group_B,complete
+99,ER Registration/ER Triage/ER Sepsis Triage/LacticAcid/Leucocytes/CRP/IV Liquid/IV Antibiotics/Admission NC/Admission IC/Return ER/Release A/Release D,2026-05-18 14:02:08,Group_C,complete
+100,ER Registration/ER Sepsis Triage/ER Triage/CRP/Leucocytes/LacticAcid/IV Antibiotics/IV Liquid/Admission NC/Return ER/Release B/Return ER/Release E,2026-05-18 14:27:08,Group_D,complete
